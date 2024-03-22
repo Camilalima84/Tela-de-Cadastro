@@ -1,0 +1,1 @@
+A tela de cadastro foi criada inicialmente com HTML e CSS, contendo funções básicas que serão melhoradas ao decorrer do meu aprendizado. Adicionei alguns estilos como tipo de borda, cor de fundo, fontes e adicionei rótulos para melhorar a acessibilidade.
