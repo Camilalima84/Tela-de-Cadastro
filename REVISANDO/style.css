@@ -1,0 +1,78 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    margin: 30px;
+    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+
+
+}
+h2{
+    margin: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+form{
+    padding-bottom: 800px;
+    padding: 10px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+    right: 2px;
+   border-width: 10px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-size: 19px;
+   font-family:Arial;
+   background-color: whitesmoke;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+  
+    
+}
+ 
+
+button{
+    color:black;
+    background-color:burlywood;
+    padding: 5px;
+    padding-right: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family:Arial;
+    text-align: center;
+    padding-right: 20px;
+    font-weight: 15PX;
+    padding-left: 20px;
+    
+    
+
+}
+
+.esse{
+
+    display: flex;
+    margin-bottom: 15px;
+    
+   
+     
+}
+.esse > input{
+
+   margin: 0  3px;    
+}
+
+input{
+    padding-bottom: 8px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+}
